@@ -1,0 +1,12 @@
+Instrucciones del ejercicio:
+
+1. Realizar un fork del repositorio.
+2. Clonar el fork.
+3. Crear una nueva rama.
+4. Modificar el archivo Main.java agregando una nueva función.
+5. Subir los cambios y crear un Pull Request.
+
+Sugerencias de mejora:
+- Crear función para buscar estudiante.
+- Crear función para contar estudiantes.
+- Mejorar formato de salida.
